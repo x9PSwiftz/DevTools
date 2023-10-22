@@ -36,3 +36,5 @@ elseif world3 then
         ["Fish Tail"] = {n="Fish Tail",nm="Fishman Raider [Lv. 1775]",cf=CFrame.new(-10434.8105, 331.762634, -8383.1377, 0.0260732844, 0, -0.999660015, 0, 1, 0, 0.999660015, 0, 0.0260732844)},
     }
 end
+
+return Material_world
